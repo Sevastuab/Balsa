@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Main">
+      <UniqueIdentifier>{02091ff1-505b-4e53-82cb-f59e5cb59dc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task1">
+      <UniqueIdentifier>{3fc79555-4b8a-4766-bdf9-15add0b4aea3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task2">
+      <UniqueIdentifier>{c88335b7-7f87-40e6-8815-ea715ef61467}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task3">
+      <UniqueIdentifier>{2d1b1463-9d6f-4799-a134-b8af2060b3c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\technical">
+      <UniqueIdentifier>{48a9e4dc-c097-4055-8019-766f9a0a888d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="main_choice.cpp">
+      <Filter>Исходные файлы\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="task1.cpp">
+      <Filter>Исходные файлы\Task1</Filter>
+    </ClCompile>
+    <ClCompile Include="task1_transformArray.cpp">
+      <Filter>Исходные файлы\Task1</Filter>
+    </ClCompile>
+    <ClCompile Include="task2.cpp">
+      <Filter>Исходные файлы\Task2</Filter>
+    </ClCompile>
+    <ClCompile Include="task2_findLocalMinimums.cpp">
+      <Filter>Исходные файлы\Task2</Filter>
+    </ClCompile>
+    <ClCompile Include="task2_isLocalMinimum.cpp">
+      <Filter>Исходные файлы\Task2</Filter>
+    </ClCompile>
+    <ClCompile Include="task2_sumAboveMainDiagonal.cpp">
+      <Filter>Исходные файлы\Task2</Filter>
+    </ClCompile>
+    <ClCompile Include="task3.cpp">
+      <Filter>Исходные файлы\Task3</Filter>
+    </ClCompile>
+    <ClCompile Include="task3_isVowel.cpp">
+      <Filter>Исходные файлы\Task3</Filter>
+    </ClCompile>
+    <ClCompile Include="task3_processText.cpp">
+      <Filter>Исходные файлы\Task3</Filter>
+    </ClCompile>
+    <ClCompile Include="findMin.cpp">
+      <Filter>Исходные файлы\Task1</Filter>
+    </ClCompile>
+    <ClCompile Include="findMinPositions.cpp">
+      <Filter>Исходные файлы\Task1</Filter>
+    </ClCompile>
+    <ClCompile Include="processArray.cpp">
+      <Filter>Исходные файлы\Task1</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Library.h">
+      <Filter>Файлы заголовков\technical</Filter>
+    </ClInclude>
+    <ClInclude Include="func.h">
+      <Filter>Файлы заголовков\technical</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="in.txt" />
+  </ItemGroup>
+</Project>
