@@ -1,7 +1,6 @@
 #include "Library.h"
 #include "func.h"
 
-
 void choice()
 {
     char UserCount = ' ';

@@ -1,16 +1,4 @@
-﻿  findMin.cpp
-  findMinPositions.cpp
+﻿  main.cpp
   main_choice.cpp
-  processArray.cpp
-  task2_findLocalMinimums.cpp
-  task2_isLocalMinimum.cpp
-  task3_isVowel.cpp
-  main.cpp
-  task3_processText.cpp
-  task2_sumAboveMainDiagonal.cpp
-  task1.cpp
-  task2.cpp
-  task3.cpp
-  task1_transformArray.cpp
   Создание кода...
   Mergedproect.vcxproj -> D:\С++\Mergedproect\x64\Debug\Mergedproect.exe
